@@ -11,7 +11,7 @@ const personalMovieDB = {
 };
 
 const question1_0 = prompt('Один из последних просмотренных фильмов?', ''),
-      question2_0 = prompt('На сколько оцените его?', '');
+      question2_0 = prompt('На сколько оцените его?', ''),
       question1_1 = prompt('Один из последних просмотренных фильмов?', ''),
       question2_1 = prompt('На сколько оцените его?', '');
 
