@@ -27,7 +27,3 @@ function getMathResult(number, range) {
 }
 
 console.log(getMathResult(20, -5))
-
-
-
-
